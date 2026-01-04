@@ -25,10 +25,20 @@ DESCRIPTION_GOES_HERE
 - BLOCK_2
 - BLOCK_3
 
+### **Preview**
+
+<a href="https://www.youtube.com/watch?v=VIDEO_ID&t=100s">
+    <img src="https://img.youtube.com/vi/VIDEO_ID/0.jpg" alt="ALT_TEXT" width="480"/>
+</a>
+
+<div hidden><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VIDEO_ID" title="ALT_TEXT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
 ### **Screenshots**
 <img src="SCREENSHOT_URL" alt="SCREENSHOT_ALT"/>
 <img src="SCREENSHOT_URL" alt="SCREENSHOT_ALT"/>
 <img src="SCREENSHOT_URL" alt="SCREENSHOT_ALT"/>
+
+### **Compatibility**
 
 ### **License/Source**
 
