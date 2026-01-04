@@ -1,0 +1,20 @@
+name: Label Pack Issue
+
+on:
+  issues:
+    types: [opened, edited]
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  label-by-pack:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: github/issue-labeler@v3.4
+        with:
+          configuration-path: .github/workflows-config/labeler.yml
+          enable-versioned-regex: 0
+          sync-labels: 1
+          repo-token: ${{ github.token }}
