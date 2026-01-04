@@ -1,24 +1,38 @@
-# Pretty Pretty Pipes
+<p align="center">
+  <img src="icon.png" alt="Pretty Pretty Pipes Logo" width="96"/>
+  <h1 align="center">Pretty Pretty Pipes</h1>
+  <h2 align="center">Brings the 'Pretty Pipez' style to Pretty Pipes!</h2>
+</p>
+
+<p align="center">
+  <a href="https://modrinth.com/resourcepack/pretty-pretty-pipes">
+    <img alt="Modrinth Downloads" src="https://img.shields.io/modrinth/dt/pretty-pretty-pipes?logo=modrinth&color=forestgreen"/>
+  </a>
+  <a href="https://www.curseforge.com/minecraft/texture-packs/pretty-pretty-pipes">
+    <img alt="CurseForge Downloads" src="https://img.shields.io/curseforge/dt/pretty-pretty-pipes?logo=curseforge&color=orange"/>
+  </a>
+</p>
 
 This resource pack brings the visual styling of the [_Pretty Pipez_](https://www.curseforge.com/minecraft/texture-packs/pretty-pipez) resource pack to the [_Pretty Pipes_](https://modrinth.com/mod/pretty-pipes) mod. The pack modifies pipe models and textures while maintaining item visibility within the pipes, but does **not** include connected texture/model support like the [_Pretty X Smart Pipez_](https://www.curseforge.com/minecraft/texture-packs/pretty-x-smart-pipez) resource packs.
+
+Also check out [_Pretty Pretty Pipes: Mekanism_](https://modrinth.com/project/pretty-pretty-pipes-mekanism)!
 
 ---
 
 ### **Supported Mods**
-- [_Pretty Pipes_](https://modrinth.com/mod/pretty-pipes)
-- [_Pretty Pipes: Fluids_](https://modrinth.com/mod/pretty-pipes-fluids)
+- [Pretty Pipes](https://modrinth.com/mod/pretty-pipes)
+- [Pretty Pipes: Fluids](https://modrinth.com/mod/pretty-pipes-fluids)
 
-Also check out [_Pretty Pretty Pipes: Mekanism_](https://modrinth.com/project/pretty-pretty-pipes-mekanism)!
+### **Screenshots**
+![screenshot](screenshots/preview.png)
 
-### **License**
+### **License/Source**
 This resource pack utilizes assets from the _Pretty Pipez_ pack in accordance with their GNUv3 license and is distributed under the same license.
 
 ---
 
 <p><center>
   <a class="human-made-floater" href="https://www.aimeecozza.com/human-made" title="100% Human Made Content">
-    <img src="https://i.imgur.com/p3WJXsr.png" width="64" alt="100% Human Made Content, No AI Used">
+    <img src="https://i.imgur.com/p3WJXsr.png" height="auto" width="64px" alt="100% Human Made Content">
   </a>
-  <br/>
-  No AI was used in the creation of this pack.
-<center></p>
+</center></p>
