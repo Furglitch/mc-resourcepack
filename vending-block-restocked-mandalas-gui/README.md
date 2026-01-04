@@ -1,4 +1,3 @@
-
 <p align="center">
 	<img src="icon.png" alt="Vending Block: Restocked — Mandala GUI" width="96"/>
 	<h1 align="center">Vending Block: Restocked - Mandala's GUI</h1>
