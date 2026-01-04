@@ -1,0 +1,53 @@
+name: "Resource Pack Bug Report"
+description: "Report bugs for any resource pack in this repository."
+title: "[Bug] "
+labels: [bug]
+assignees: []
+body:
+- type: dropdown
+  id: resource_pack
+  attributes:
+    label: "Resource pack"
+    description: "Select the resource pack this bug applies to. The selected pack label will be added to the issue."
+    options:
+      - "Noticably Suspicious"
+      - "Ping Wheel - Portal 2 Sound"
+      - "Pretty Pretty Pipes"
+      - "Pretty Pretty Pipes: Mekanism"
+      - "Utilitarian Upgraded"
+      - "Vending Block: Restocked - Mandala's GUI"
+- type: input
+  id: minecraft_version
+  attributes:
+    label: "Minecraft version"
+    description: "Which Minecraft version are you using (e.g. 1.21.1)"
+    placeholder: "1.21.1"
+- type: input
+  id: resource_pack_version
+  attributes:
+    label: "Resource pack version"
+    placeholder: "e.g. 1.0"
+- type: textarea
+  id: steps_to_reproduce
+  attributes:
+    label: "Steps to reproduce"
+    description: "Provide the exact steps needed to reproduce the bug."
+    placeholder: "1. ...\n2. ...\n3. ..."
+  validations:
+    required: true
+- type: textarea
+  id: expected_behavior
+  attributes:
+    label: "Expected behavior"
+    description: "What did you expect to happen?"
+- type: textarea
+  id: actual_behavior
+  attributes:
+    label: "Actual behavior"
+    description: "What actually happened instead? Include error messages if any."
+  validations:
+    required: true
+- type: textarea
+  id: additional_info
+  attributes:
+    label: "Additional information"
