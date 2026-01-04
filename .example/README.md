@@ -34,9 +34,9 @@ DESCRIPTION_GOES_HERE
 <div hidden><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VIDEO_ID" title="ALT_TEXT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 ### **Screenshots**
-<img src="SCREENSHOT_URL" alt="SCREENSHOT_ALT"/>
-<img src="SCREENSHOT_URL" alt="SCREENSHOT_ALT"/>
-<img src="SCREENSHOT_URL" alt="SCREENSHOT_ALT"/>
+<img src="SCREENSHOT_URL" alt="SCREENSHOT_ALT"/></br>
+<img src="SCREENSHOT_URL" alt="SCREENSHOT_ALT"/></br>
+<img src="SCREENSHOT_URL" alt="SCREENSHOT_ALT"/></br>
 
 ### **Compatibility**
 

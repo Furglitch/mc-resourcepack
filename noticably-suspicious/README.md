@@ -30,8 +30,8 @@ The textures use standard vanilla assets with the block-breaking overlay applied
 - Suspicious Soul Sand
 
 ### **Screenshots**
-<img src="./screenshots/vanilla.png" alt="Vanilla Preview"/>
-<img src="./screenshots/allthemodium.png" alt="AllTheModium Preview"/>
+<img src="./screenshots/vanilla.png" alt="Vanilla Preview"/></br>
+<img src="./screenshots/allthemodium.png" alt="AllTheModium Preview"/></br>
 
 ### **License/Source**
 This pack is licensed under the GNU General Public License v3.0.
