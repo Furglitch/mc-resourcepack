@@ -24,7 +24,7 @@ Also check out [_Pretty Pretty Pipes: Mekanism_](https://modrinth.com/project/pr
 - [Pretty Pipes: Fluids](https://modrinth.com/mod/pretty-pipes-fluids)
 
 ### **Screenshots**
-![screenshot](screenshots/preview.png)
+<img src="./screenshots/preview.png" alt="Pipes Preview"/></br>
 
 ### **License/Source**
 This resource pack utilizes assets from the _Pretty Pipez_ pack in accordance with their GNUv3 license and is distributed under the same license.

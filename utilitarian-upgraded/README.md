@@ -35,7 +35,7 @@ This resource pack brings vanilla-style (JAPPA-fied) textures to the Utilitarian
 - Trowel (Both States)
 
 ### **Screenshots**
-![screenshot](screenshots/comparison.gif)
+<img src="./screenshots/comparison.gif" alt="Texture Comparison GIF"/></br>
 
 ### **License/Source**
 This pack is licensed under the GNU General Public License v3.0.
