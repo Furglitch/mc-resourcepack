@@ -17,8 +17,8 @@ DESCRIPTION_GOES_HERE
 ---
 
 ### **Supported Mods**
-- MOD_1
-- MOD_2
+- [MOD_1](MOD_1_LINK)
+- [MOD_2](MOD_2_LINK)
 
 ### **Affected Blocks**
 - BLOCK_1
