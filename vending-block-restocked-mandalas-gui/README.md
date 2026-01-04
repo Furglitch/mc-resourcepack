@@ -22,9 +22,9 @@ This resource pack re-skins the GUI for the Vending Block: Restocked mod in the 
 - [Vending Block: Restocked](https://modrinth.com/mod/vending-block-restocked)
 
 ### **Screenshots**
-![screenshot](screenshots/vendor_preview.png)
-![screenshot](screenshots/display_preview.png)
-![screenshot](screenshots/vendor_preview_admin.png)
+<img src="./screenshots/vendor_preview.png" alt="Vendor Menu Preview"/></br>
+<img src="./screenshots/display_preview.png" alt="Display Menu Preview"/></br>
+<img src="./screenshots/vendor_preview_admin.png" alt="Vendor Admin Menu Preview"/></br>
 
 ### **License/Source**
 This pack is licensed under the GNU General Public License v3.0.
