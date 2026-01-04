@@ -15,7 +15,7 @@
 
 This resource pack brings the visual styling of the [_Pretty Pipez: Mekanism Edition_](https://www.curseforge.com/minecraft/texture-packs/pretty-pipez-mekanism-edition) resource pack to the [_Pretty Pipes_](https://modrinth.com/mod/pretty-pipes) mod. The pack modifies pipe models and textures while maintaining item visibility within the pipes, but does **not** include connected texture/model support like the [_Pretty X Smart Pipez: Mekanism Edition_](https://www.curseforge.com/minecraft/texture-packs/pretty-x-smart-pipez-mekanism-edition) resource packs.
 
-Also check out [_Pretty Pretty Pipes_](https://modrinth.com/project/pretty-pretty-pipes)!
+Also check out [_Pretty Pretty Pipes_](https://modrinth.com/resourcepack/pretty-pretty-pipes)!
 
 ---
 
