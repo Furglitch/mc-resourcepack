@@ -1,6 +1,3 @@
-
-
-
 <p align="center">
     <img src="icon.png" alt="Ping Wheel - Portal 2 Sound Logo" width="96"/>
     <h1 align="center">Ping Wheel - Portal 2 Sound</h1>
