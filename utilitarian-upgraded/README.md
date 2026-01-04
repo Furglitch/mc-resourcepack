@@ -1,29 +1,50 @@
-# Utilitarian Upgraded
+<p align="center">
+  <img src="icon.png" alt="Utilitarian Upgraded Logo" width="96"/>
+  <h1 align="center">Utilitarian Upgraded</h1>
+  <h2 align="center">Refines the Utilitarian mod's texture to be closer in style with vanilla textures</h2>
+</p>
 
-This resource pack brings vanilla-style (JAPPA-fied) textures to the [_Utilitarian_](https://modrinth.com/mod/utilitarian) mod, replacing the original textures with designs that better match modern Minecraft's aesthetic.
+<p align="center">
+  <a href="https://modrinth.com/resourcepack/utilitarian-upgraded">
+    <img alt="Modrinth Downloads" src="https://img.shields.io/modrinth/dt/utilitarian-upgraded?logo=modrinth&color=forestgreen"/>
+  </a>
+  <a href="https://www.curseforge.com/minecraft/texture-packs/utilitarian-upgraded">
+    <img alt="CurseForge Downloads" src="https://img.shields.io/curseforge/dt/utilitarian-upgraded?logo=curseforge&color=orange"/>
+  </a>
+</p>
+
+This resource pack brings vanilla-style (JAPPA-fied) textures to the Utilitarian mod, replacing the original textures with designs that better match modern Minecraft's aesthetic.
 
 ---
 
-### **Affected Textures**
+### **Supported Mods**
+- [Utilitarian](https://modrinth.com/mod/utilitarian)
+
+### **Affected Block Textures**
 - Angel Block
-- Fluid Hopper (Block and Item)
+- Fluid Hopper
 - Lapis Lamp
 - Redstone Clock
-- Restraining Order
 - Soliciting Carpet
 - Sound Muffler
 - TPS Meter
+
+### **Affected Item Textures**
+- Fluid Hopper
+- Restraining Order
 - Trowel (Both States)
 
-### **License**
-Some textures in this pack utilize assets from vanilla Minecraft, modified and distributed in accordance with the Minecraft EULA. If the author of Utilitarian would like to use these textures in the mod itself, they have full permission to do so.
+### **Screenshots**
+![screenshot](screenshots/comparison.gif)
+
+### **License/Source**
+This pack is licensed under the GNU General Public License v3.0.
+Assets derived from vanilla are used under the Minecraft EULA.
 
 ---
 
 <p><center>
   <a class="human-made-floater" href="https://www.aimeecozza.com/human-made" title="100% Human Made Content">
-    <img src="https://i.imgur.com/p3WJXsr.png" width="64" alt="100% Human Made Content, No AI Used">
+    <img src="https://i.imgur.com/p3WJXsr.png" height="auto" width="64px" alt="100% Human Made Content">
   </a>
-  <br/>
-  No AI was used in the creation of this pack.
 </center></p>
