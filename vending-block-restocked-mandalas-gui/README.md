@@ -1,7 +1,7 @@
 
 <p align="center">
 	<img src="icon.png" alt="Vending Block: Restocked — Mandala GUI" width="96"/>
-	<h1 align="center">Vending Block: Restocked - Mandala GUI</h1>
+	<h1 align="center">Vending Block: Restocked - Mandala's GUI</h1>
 	<h2 align="center">Mandala's GUI styling for my Vending Block: Restocked mod</h2>
 </p>
 
