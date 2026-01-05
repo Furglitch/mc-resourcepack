@@ -15,6 +15,7 @@ body:
     label: "Resource pack"
     description: "Select the resource pack this request applies to. The selected pack label will be added to the issue."
     options:
+      - "Nitpicks"
       - "Noticably Suspicious"
       - "Ping Wheel - Portal 2 Sound"
       - "Pretty Pretty Pipes"

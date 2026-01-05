@@ -1,0 +1,9 @@
+{
+    "advancement.compactmachines.got_shrinking_device": "Player Compression Device",
+    "advancement.compactmachines.got_shrinking_device.desc": "Obtain a Player Compression Device",
+    "curios.identifier.psd": "Player Compression Device",
+    "item.compactmachines.personal_shrinking_device": "Player Compression Device",
+    "jei.compactmachines.machines": "Machines are used to make pocket dimensions. Craft a machine and place it in world, then use a Player Compression Device to go inside.",
+    "jei.compactmachines.shrinking_device": "Use the Player Compression Device (PCD) on a machine in order to enter a compact space.",
+    "rooms.errors.compactmachines.cannot_enter": "You fumble with the compression device, to no avail. It refuses to work."
+}
