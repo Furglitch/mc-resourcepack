@@ -1,13 +1,13 @@
 name: "Resource Pack Addition Request"
 description: "Request a new addition or enhancement for any resource pack in this repository"
-title: "[Addition - {{resource_pack}}] "
+title: "[Addition - '{{resource_pack}}'] "
 labels: [enhancement]
 assignees: []
 body:
 - type: markdown
   attributes:
     value: |
-      **Do NOT remove '{{resource_pack}}' from the title.**  
+      **Do NOT remove `'{{resource_pack}}'` from the title.**  
       This will be automatically replaced with the information you provide below.
 - type: dropdown
   id: resource_pack

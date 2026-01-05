@@ -1,13 +1,13 @@
 name: "Resource Pack Update Request"
 description: "Request an update to a resource pack for an updated dependency"
-title: "[Update - {{resource_pack}}] "
+title: "[Update - '{{resource_pack}}'] "
 labels: [update]
 assignees: []
 body:
 - type: markdown
   attributes:
     value: |
-      **Do NOT remove '{{resource_pack}}' from the title.**  
+      **Do NOT remove `'{{resource_pack}}'` from the title.**  
       This will be automatically replaced with the information you provide below.
 - type: dropdown
   id: resource_pack

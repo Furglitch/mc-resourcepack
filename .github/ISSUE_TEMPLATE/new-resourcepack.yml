@@ -1,13 +1,13 @@
 name: "New Resource Pack Request"
 description: "Request a brand-new resource pack that does not fit into existing packs\nRequests may or may not be fulfilled, at the discretion of the author (Furglitch)"
-title: "[New] {{pack_name}}"
+title: "[New] '{{pack_name}}'"
 labels: [newpack]
 assignees: []
 body:
 - type: markdown
   attributes:
     value: |
-      **Do NOT remove '{{pack_name}}' from the title.**  
+      **Do NOT remove `'{{pack_name}}'` from the title.**  
       This will be automatically replaced with the information you provide below.
 - type: input
   id: pack_name

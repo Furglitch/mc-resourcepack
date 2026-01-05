@@ -1,13 +1,13 @@
 name: "Resource Pack Bug Report"
 description: "Report bugs for any resource pack in this repository"
-title: "[Bug - {{resource_pack}} {{resource_pack_version}}] "
+title: "[Bug - '{{resource_pack}}' {{resource_pack_version}}] "
 labels: [bug]
 assignees: []
 body:
 - type: markdown
   attributes:
     value: |
-      **Do NOT remove '{{resource_pack}} {{resource_pack_version}}' from the title.**  
+      **Do NOT remove `'{{resource_pack}}' {{resource_pack_version}}` from the title.**  
       This will be automatically replaced with the information you provide below.
 - type: dropdown
   id: resource_pack
