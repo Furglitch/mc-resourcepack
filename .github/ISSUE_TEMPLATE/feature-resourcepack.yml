@@ -1,0 +1,55 @@
+name: "Resource Pack Addition Request"
+description: "Request a new addition or enhancement for any resource pack in this repository"
+title: "[Addition - {{resource_pack}}] "
+labels: [enhancement]
+assignees: []
+body:
+- type: markdown
+  attributes:
+    value: |
+      **Do NOT remove '{{resource_pack}}' from the title.**  
+      This will be automatically replaced with the information you provide below.
+- type: dropdown
+  id: resource_pack
+  attributes:
+    label: "Resource pack"
+    description: "Select the resource pack this request applies to. The selected pack label will be added to the issue."
+    options:
+      - "Noticably Suspicious"
+      - "Ping Wheel - Portal 2 Sound"
+      - "Pretty Pretty Pipes"
+      - "Pretty Pretty Pipes: Mekanism"
+      - "Utilitarian Upgraded"
+      - "Vending Block: Restocked - Mandala's GUI"
+  validations:
+    required: true
+- type: textarea
+  id: feature_summary
+  attributes:
+    label: "Feature summary"
+    description: "Briefly describe the addition you'd like to see."
+  validations:
+    required: true
+- type: textarea
+  id: use_case
+  attributes:
+    label: "Use case / Motivation"
+    description: "Explain why this addition is needed"
+  validations:
+    required: true
+- type: textarea
+  id: proposed_solution
+  attributes:
+    label: "Proposed solution"
+    description: "Describe how the feature could be implemented, include sketches or examples if available."
+- type: textarea
+  id: alternatives_considered
+  validations:
+    required: true
+  attributes:
+    label: "Alternatives considered"
+    description: "Describe any alternatives you've considered."
+- type: textarea
+  id: additional_info
+  attributes:
+    label: "Additional information"

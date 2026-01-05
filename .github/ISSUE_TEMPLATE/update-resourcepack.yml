@@ -1,0 +1,74 @@
+name: "Resource Pack Update Request"
+description: "Request an update to a resource pack for an updated dependency"
+title: "[Update - {{resource_pack}}] "
+labels: [update]
+assignees: []
+body:
+- type: markdown
+  attributes:
+    value: |
+      **Do NOT remove '{{resource_pack}}' from the title.**  
+      This will be automatically replaced with the information you provide below.
+- type: dropdown
+  id: resource_pack
+  attributes:
+    label: "Resource pack"
+    description: "Select the resource pack to update. The selected pack label will be added to the issue."
+    options:
+      - "Noticably Suspicious"
+      - "Ping Wheel - Portal 2 Sound"
+      - "Pretty Pretty Pipes"
+      - "Pretty Pretty Pipes: Mekanism"
+      - "Utilitarian Upgraded"
+      - "Vending Block: Restocked - Mandala's GUI"
+  validations:
+    required: true
+- type: input
+  id: target_mc_version
+  attributes:
+    label: "Target Minecraft version"
+    description: "Minecraft version released/changed for this update (e.g. 1.21.1). Leave blank if Minecraft version did not change."
+    placeholder: "1.21.1"
+- type: input
+  id: target_mods
+  attributes:
+    label: "Updated mod(s) (optional)"
+    description: "List any mods and versions that were updated (comma-separated)"
+    placeholder: "ModA 2.0, ModB 3.1"
+  validations:
+    required: true
+- type: dropdown
+  id: impact
+  attributes:
+    label: "Expected impact"
+    description: "How likely is this change to require resource pack edits?"
+    options:
+      - "No changes needed"
+      - "Minor adjustments"
+      - "Compatibility changes"
+      - "Major rework"
+  validations:
+    required: true
+- type: textarea
+  id: changes_required
+  attributes:
+    label: "Changes required"
+    description: "Describe specific files or assets that need updating, example diffs, or implementation notes."
+  validations:
+    required: true
+- type: textarea
+  id: testing_steps
+  attributes:
+    label: "Testing steps"
+    description: "Steps to reproduce and verify the update (commands, sample world, expected behavior)."
+- type: input
+  id: changelog_or_links
+  attributes:
+    label: "Changelog / reference links"
+    description: "Links to Minecraft/mod changelogs, PRs, or issues that prompted this update"
+    placeholder: "https://..."
+- type: textarea
+  id: additional_info
+  attributes:
+    label: "Additional information"
+    description: "Any extra notes, screenshots, or testing artifacts."
