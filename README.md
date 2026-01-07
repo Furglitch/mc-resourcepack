@@ -4,6 +4,9 @@ Various resource packs for Minecraft Java Edition created and maintained by Furg
 
 ## Resource Packs Included
 
+### Nitpicks
+Small tweaks for various, insignificant mod issues
+
 ### Noticably Suspicious
 Makes suspicious blocks more noticable, but not too cheaty.
 
