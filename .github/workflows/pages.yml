@@ -1,0 +1,52 @@
+name: GitHub Pages Deploy
+
+on:
+    push:
+        branches: ["master"]
+        paths:
+            - 'docs/**'
+            - 'README.md'
+            - '**/README.md'
+    workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Copy READMEs
+        run: |
+          cp README.md docs/
+          cp nitpicks/README.md docs/nitpicks/
+          cp noticably-suspicious/README.md docs/noticably-suspicious/
+          cp ping-wheel-portal-2-sound/README.md docs/ping-wheel-portal-2-sound/
+          cp pretty-pretty-pipes/README.md docs/pretty-pretty-pipes/
+          cp pretty-pretty-pipes-mekanism/README.md docs/pretty-pretty-pipes-mekanism/
+          cp utilitarian-upgraded/README.md docs/utilitarian-upgraded/
+          cp vending-block-restocked-mandalas-gui/README.md docs/vending-block-restocked-mandalas-gui/
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
