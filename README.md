@@ -1,4 +1,4 @@
-# Furglitch's Minecraft Resource Packs
+# Minecraft Resource Packs
 
 Various resource packs for Minecraft Java Edition created and maintained by Furglitch.
 

@@ -1,0 +1,43 @@
+title: Furglitch
+theme: just-the-docs
+
+url: "https://wiki.furglitch.com"
+baseurl: "mc-resourcepack"
+
+nav_external_links:
+  - title: " "
+    hide_icon: true
+  - title: "--- Other Projects ---"
+    hide_icon: true
+  - title: Mod Organizer 2 Linux Installer (MO2-LINT)
+    url: https://wiki.furglitch.com/modorganizer2-linux-installer/
+    hide_icon: true
+    open_in_new_tab: false
+  - title: Mod Organizer 2 Separator Generator
+    url: https://wiki.furglitch.com/modorganizer2-separator-generator/
+    hide_icon: true
+    open_in_new_tab: false
+  - title: Mod Organizer 2 NXM Collection Downloader
+    url: https://wiki.furglitch.com/modorganizer2-nxm-collection-dl/
+    hide_icon: true
+    open_in_new_tab: false
+  - title: "KenkuKraft: Infected"
+    url: https://wiki.furglitch.com/kenkukraft/
+    hide_icon: true
+    open_in_new_tab: false
+  - title: Minecraft Resource Packs
+    url: https://wiki.furglitch.com/mc-resourcepack
+    hide_icon: true
+    open_in_new_tab: false
+  - title: "Vending Block: Restocked"
+    url: https://wiki.furglitch.com/vending-block-restocked/
+    hide_icon: true
+    open_in_new_tab: false
+  - title: Docker Stack
+    url: https://wiki.furglitch.com/docker-stack/
+    hide_icon: true
+    open_in_new_tab: false
+  - title: Dotfiles
+    url: https://wiki.furglitch.com/.dotfiles/
+    hide_icon: true
+    open_in_new_tab: false
