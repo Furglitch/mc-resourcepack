@@ -1,10 +1,10 @@
 title: Minecraft Resource Packs
 remote_theme: furglitch/furglitch.github.io
 repository: furglitch/mc-resourcepack
-logo: "https://raw.githubusercontent.com/Furglitch/furglitch.github.io/refs/heads/main/assets/images/custom/icons/furglitch_logo_square.svg"
-favicon_ico: "https://raw.githubusercontent.com/Furglitch/furglitch.github.io/refs/heads/main/assets/images/custom/icons/furglitch_logo_square.ico"
+# logo: "https://raw.githubusercontent.com/Furglitch/furglitch.github.io/refs/heads/main/assets/images/custom/icons/furglitch_logo_square.svg"
+# favicon_ico: "https://raw.githubusercontent.com/Furglitch/furglitch.github.io/refs/heads/main/assets/images/custom/icons/furglitch_logo_square.ico"
 
-baseurl: "mc-resourcepack"
+# baseurl: "mc-resourcepack"
 
 nav_external_links:
   - title: " "
