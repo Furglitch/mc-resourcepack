@@ -1,9 +1,9 @@
 title: Minecraft Resource Packs
-theme: just-the-docs
-logo: "https://raw.githubusercontent.com/Furglitch/furglitch.github.io/refs/heads/main/assets/images/icons/furglitch_logo_square.svg"
-favicon_ico: "https://raw.githubusercontent.com/Furglitch/furglitch.github.io/refs/heads/main/assets/images/icons/furglitch_logo_square.ico"
+remote_theme: furglitch/furglitch.github.io
+repository: furglitch/mc-resourcepack
+logo: "https://raw.githubusercontent.com/Furglitch/furglitch.github.io/refs/heads/main/assets/images/custom/icons/furglitch_logo_square.svg"
+favicon_ico: "https://raw.githubusercontent.com/Furglitch/furglitch.github.io/refs/heads/main/assets/images/custom/icons/furglitch_logo_square.ico"
 
-url: "https://wiki.furglitch.com"
 baseurl: "mc-resourcepack"
 
 nav_external_links:
@@ -32,3 +32,6 @@ nav_external_links:
   - title: Dotfiles
     url: https://wiki.furglitch.com/.dotfiles/
     hide_icon: true
+
+plugins:
+  - jekyll-remote-theme
