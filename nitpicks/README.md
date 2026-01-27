@@ -8,7 +8,7 @@
         <img alt="Modrinth Downloads" src="https://img.shields.io/modrinth/dt/nitpicks?logo=modrinth&color=forestgreen"/>
     </a>
     <a href="https://www.curseforge.com/minecraft/texture-packs/nitpicks">
-        <img alt="CurseForge Downloads" src="https://img.shields.io/curseforge/dt/nitpicks?logo=curseforge&color=orange"/>
+        <img alt="CurseForge Downloads" src="https://img.shields.io/curseforge/dt/1421790?logo=curseforge&color=orange"/>
     </a>
 </p>
 

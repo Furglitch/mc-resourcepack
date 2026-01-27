@@ -9,7 +9,7 @@
     <img alt="Modrinth Downloads" src="https://img.shields.io/modrinth/dt/pretty-pretty-pipes-mekanism?logo=modrinth&color=forestgreen"/>
   </a>
   <a href="https://www.curseforge.com/minecraft/texture-packs/pretty-pretty-pipes-mekanism">
-    <img alt="CurseForge Downloads" src="https://img.shields.io/curseforge/dt/pretty-pretty-pipes-mekanism?logo=curseforge&color=orange"/>
+    <img alt="CurseForge Downloads" src="https://img.shields.io/curseforge/dt/1420408?logo=curseforge&color=orange"/>
   </a>
 </p>
 

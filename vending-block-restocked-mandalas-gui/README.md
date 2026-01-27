@@ -9,7 +9,7 @@
 		<img alt="Modrinth Downloads" src="https://img.shields.io/modrinth/dt/vending-block-restocked-mandalas-gui?logo=modrinth&color=forestgreen"/>
 	</a>
 	<a href="https://www.curseforge.com/minecraft/texture-packs/vending-block-restocked-mandalas-gui">
-		<img alt="CurseForge Downloads" src="https://img.shields.io/curseforge/dt/vending-block-restocked-mandalas-gui?logo=curseforge&color=orange"/>
+		<img alt="CurseForge Downloads" src="https://img.shields.io/curseforge/dt/1420707?logo=curseforge&color=orange"/>
 	</a>
 </p>
 

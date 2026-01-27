@@ -8,7 +8,7 @@
         <img alt="Modrinth Downloads" src="https://img.shields.io/modrinth/dt/ping-wheel-portal-2-sound?logo=modrinth&color=forestgreen"/>
     </a>
     <a href="https://www.curseforge.com/minecraft/texture-packs/ping-wheel-portal-2-sound">
-        <img alt="CurseForge Downloads" src="https://img.shields.io/curseforge/dt/ping-wheel-portal-2-sound?logo=curseforge&color=orange"/>
+        <img alt="CurseForge Downloads" src="https://img.shields.io/curseforge/dt/1420421?logo=curseforge&color=orange"/>
     </a>
 </p>
 
