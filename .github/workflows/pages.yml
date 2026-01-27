@@ -37,6 +37,14 @@ jobs:
           cp utilitarian-upgraded/README.md docs/utilitarian-upgraded/
           cp vending-block-restocked-mandalas-gui/README.md docs/vending-block-restocked-mandalas-gui/
 
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.14'
+
+      - name: Convert Relative Paths to Repo URLs
+        run: python convert-relative.py
+
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
