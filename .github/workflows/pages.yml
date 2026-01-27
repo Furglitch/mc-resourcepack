@@ -43,7 +43,7 @@ jobs:
           python-version: '3.14'
 
       - name: Convert Relative Paths to Repo URLs
-        run: python convert-relative.py
+        run: python .github/workflows/convert-relative.py
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
